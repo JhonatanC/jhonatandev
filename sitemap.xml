@@ -1,0 +1,25 @@
+<? version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemaps/0.9/">
+	
+	<url>
+		<loc>http://jhonatandev.com/index.html</loc>
+		<lastmod>2015-08-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<loc>http://jhonatandev.com/perfil.html</loc>
+		<lastmod>2015-08-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<loc>http://jhonatandev.com/blog</loc>
+		<lastmod>2015-08-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+</urlset>

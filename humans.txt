@@ -1,0 +1,15 @@
+/* TEAM */
+                            
+Web developer : Jhonatan Cortes Hurtado                      
+Site: http://jhonatandev.com
+Twitter: @jhonatandev
+Location: Cali, Colombia.
+
+							
+/* SITE */
+                            
+Last update: 2015/08/24
+Language: Español
+Standards: HTML5, CSS3, JavaScript.
+Components: Normalize, Modernizr, jQuery.
+Software: Sublime Text 2, Illustrator.
